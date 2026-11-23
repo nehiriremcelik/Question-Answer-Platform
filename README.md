@@ -59,8 +59,8 @@ The goal of this project is to demonstrate a complete, cleanly structured Django
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nehiriremcelik/WEB.git
-   cd WEB
+   git clone https://github.com/nehiriremcelik/Question-Answer-Platform.git
+   cd Question-Answer-Platform
    ```
 
 2. Create a virtual environment:
@@ -110,7 +110,7 @@ The goal of this project is to demonstrate a complete, cleanly structured Django
 ## Project Structure
 
 ```
-WEB/
+Question-Answer-Platform/
 ├── goldenqa/
 │   ├── models.py
 │   ├── views.py
@@ -130,7 +130,6 @@ WEB/
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
-├── db.sqlite3
 ├── manage.py
 └── requirements.txt
 ```
